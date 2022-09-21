@@ -1,4 +1,4 @@
-# Assignment-07-Clustering-Q1-Airline-
+# Assignment-07-Clustering-Q1-Airline
 
 ## Hierarchical Clusteringe:
 ## K-Means Clustering:
